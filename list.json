@@ -1,0 +1,88 @@
+{
+    "name": "MateSwap",
+    "logoURI": "https://tokens.mateswap.org/mateswap.png",
+    "keywords": [
+        "mateswap",
+        "default"
+    ],
+    "timestamp": "2021-03-12T00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 65,
+            "address": "0xDa9d14072Ef2262c64240Da3A93fea2279253611",
+            "name": "OKB",
+            "symbol": "OKB",
+            "decimals": 18,
+            "logoURI": "https://tokens.mateswap.org/public/okb.png"
+        },
+        {
+            "chainId": 65,
+            "address": "0xe579156f9dEcc4134B5E3A30a24Ac46BB8B01281",
+            "name": "USDT",
+            "symbol": "USDT",
+            "decimals": 10,
+            "logoURI": "https://tokens.mateswap.org/public/usdt.png"
+        },
+        {
+            "chainId": 65,
+            "address": "0x533367b864d9b9aa59d0dcb6554df0c89feef1ff",
+            "name": "USDK",
+            "symbol": "USDK",
+            "decimals": 10,
+            "logoURI": "https://tokens.mateswap.org/public/usdk.png"
+        },
+        {
+            "chainId": 65,
+            "address": "0x3e33590013b24bf21d4ccca3a965ea10e570d5b2",
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 10,
+            "logoURI": "https://tokens.mateswap.org/public/usdc.png"
+        },
+        {
+            "chainId": 65,
+            "address": "0x09973e7e3914eb5ba69c7c025f30ab9446e3e4e0",
+            "name": "BTCK",
+            "symbol": "BTCK",
+            "decimals": 10,
+            "logoURI": "https://tokens.mateswap.org/public/btck.png"
+        },
+        {
+            "chainId": 65,
+            "address": "0xdf950cecf33e64176ada5dd733e170a56d11478e",
+            "name": "ETHK",
+            "symbol": "ETHK",
+            "decimals": 10,
+            "logoURI": "https://tokens.mateswap.org/public/ethk.png"
+        },
+        {
+            "chainId": 65,
+            "address": "0x72f8fa5da80dc6e20e00d02724cf05ebd302c35f",
+            "name": "DOTK",
+            "symbol": "DOTK",
+            "decimals": 10,
+            "logoURI": "https://tokens.mateswap.org/public/dotk.png"
+        },
+        {
+            "chainId": 65,
+            "address": "0xf6a0dc1fd1d2c0122ab075d7ef93ad79f02ccb93",
+            "name": "FILK",
+            "symbol": "FILK",
+            "decimals": 10,
+            "logoURI": "https://tokens.mateswap.org/public/filk.png"
+        },
+        {
+            "chainId": 65,
+            "address": "0xd616388f6533b6f1c31968a305fbee1727f55850",
+            "name": "LTCK",
+            "symbol": "LTCK",
+            "decimals": 10,
+            "logoURI": "https://tokens.mateswap.org/public/filk.png"
+        }
+    ],
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+    }
+}
