@@ -5,14 +5,22 @@
         "mateswap",
         "default"
     ],
-    "timestamp": "2021-03-12T00:00:00.000+00:00",
+    "timestamp": "2021-03-12T13:51:00.000+00:00",
     "tokens": [
+        {
+            "chainId": 65,
+            "address": "0x105AD35c41E9861c37D1e31e4e4690F853f116F0",
+            "name": "Wrapped OKT",
+            "symbol": "WOKT",
+            "decimals": 18,
+            "logoURI": "https://tokens.mateswap.org/public/wokt.png"
+        },
         {
             "chainId": 65,
             "address": "0xDa9d14072Ef2262c64240Da3A93fea2279253611",
             "name": "OKB",
             "symbol": "OKB",
-            "decimals": 18,
+            "decimals": 10,
             "logoURI": "https://tokens.mateswap.org/public/okb.png"
         },
         {
@@ -77,7 +85,7 @@
             "name": "LTCK",
             "symbol": "LTCK",
             "decimals": 10,
-            "logoURI": "https://tokens.mateswap.org/public/filk.png"
+            "logoURI": "https://tokens.mateswap.org/public/ltck.png"
         }
     ],
     "version": {
