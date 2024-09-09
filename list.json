@@ -110,6 +110,14 @@
             "symbol": "LTCK",
             "decimals": 10,
             "logoURI": "https://tokens.mateswap.org/public/ltck.png"
+        },
+        {
+            "chainId": 65,
+            "address": "0x386787A3Ac1de59023200446da3884390965D437",
+            "name": "CARPINCHO",
+            "symbol": "CPN",
+            "decimals": 18,
+            "logoURI": "https://tokens.mateswap.org/public/cpn.png"
         }
     ],
     "version": {
